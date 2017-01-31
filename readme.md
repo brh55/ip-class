@@ -41,6 +41,11 @@ Type: `string`
 
 A valid IPv4 address.
 
+## Related
+
+[min-host-bits](https://github.com/brh55/min-host-bits) - 💻 Calculate minimum host bits needed for desired number of hosts
+
+[min-prefix-length](https://github.com/brh55/min-prefix-length) - 🔢 Calculate the minimum prefix length for an IPv4 subnet based on a desired number of host
 
 ## License
 
