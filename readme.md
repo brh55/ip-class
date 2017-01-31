@@ -1,4 +1,4 @@
-# ip-class [![Build Status](https://travis-ci.org/brh55/ip-class.svg?branch=master)](https://travis-ci.org/brh55/ip-class)
+# ip-class [![Travis](https://img.shields.io/travis/brh55/ip-class.svg?style=flat-square)](https://travis-ci.org/brh55/ip-class) [![XO code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg?style=flat-square)](https://github.com/sindresorhus/xo)
 
 > Get the IPv4 address class of an ip address for classful networks
 
