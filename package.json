@@ -1,0 +1,34 @@
+{
+  "name": "ip-class",
+  "version": "1.0.0",
+  "description": "Get the IPv4 address class of an ip address for classful networks",
+  "license": "MIT",
+  "repository": "brh55/ip-address-class",
+  "author": {
+    "name": "Brandon Him",
+    "email": "brandonhim@live.com",
+    "url": "github.com/brh55"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "subnet",
+    "IPv4",
+    "classful networks",
+    "ip address class"
+  ],
+  "dependencies": {
+    "validate-ip": "^1.0.1"
+  },
+  "devDependencies": {
+    "ava": "^0.17.0",
+    "xo": "^0.17.0"
+  }
+}
