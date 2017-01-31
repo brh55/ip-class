@@ -1,6 +1,6 @@
 {
   "name": "ip-class",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the IPv4 address class of an ip address for classful networks",
   "license": "MIT",
   "repository": "brh55/ip-address-class",
