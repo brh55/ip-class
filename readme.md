@@ -47,6 +47,8 @@ A valid IPv4 address.
 
 [min-prefix-length](https://github.com/brh55/min-prefix-length) - 🔢 Calculate the minimum prefix length for an IPv4 subnet based on a desired number of host
 
+[filter-ips](https://github.com/brh55/filter-ips) - :no_entry: Filter a list of IPv4 addresses based on a list of exclusion IPs or addresses containing wildcards.
+
 ## License
 
 MIT © [Brandon Him](https://github.com/brh55)
